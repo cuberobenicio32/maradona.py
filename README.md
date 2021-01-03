@@ -1,3 +1,5 @@
+![El Diego.](img/maradona.jpg)
+
 # maradona.py
 Simple programa que hice por aburrimiento que genera frases de Maradona en python. 
 Inspirado en: https://github.com/nescalante/maradona
